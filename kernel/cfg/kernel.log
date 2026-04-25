@@ -1,0 +1,3 @@
+[INFO] 18:43:48:995 KERNEL/(4905:4905): ## (0:0) - Se crea el proceso - Estado: NEW
+[INFO] 18:43:49:009 KERNEL/(4905:4906): PID: 0 - Estado Anterior: NEW - Estado Actual: READY
+[INFO] 18:43:49:009 KERNEL/(4905:4906): ## (0:0) Se crea el Hilo - Estado: READY

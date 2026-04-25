@@ -1,0 +1,39 @@
+{
+  "folders": [
+    {
+      "name": "kernel",
+      "path": "kernel"
+    },
+    {
+      "name": "cpu",
+      "path": "cpu"
+    },
+    {
+      "name": "memoria",
+      "path": "memoria"
+    },
+    {
+      "name": "filesystem",
+      "path": "filesystem"
+    },
+    {
+      "name": "utils",
+      "path": "utils"
+    }
+  ],
+  "settings": {
+    "debug.onTaskErrors": "abort",
+    "files.associations": {
+      "*.h": "c",
+      "bit": "c",
+      "compare": "c",
+      "cstddef": "c",
+      "string": "c",
+      "limits": "c",
+      "memory": "c",
+      "new": "c",
+      "functional": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+  }
+}
